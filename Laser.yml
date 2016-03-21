@@ -2,7 +2,7 @@ RedLaser:
     Item_Information:
         Item_Name: "&eRed Lasergun"
         Item_Type: 417
-        Item_Lore: "&eAdvanced pump-action lasergun.|&eFires 7 Gigawatt laser that penetrate|&eKill all targets within 40 blocks.|&eDeals 200% damage to Zombies."
+        Item_Lore: "&eAdvanced lasergun.|&eFires 7 Gigawatt laser.|&eDeals 200% damage to Zombies."
         Sounds_Acquired: BAT_TAKEOFF-1-1-0
     Shooting:
         Cancel_Left_Click_Block_Damage: true
@@ -42,4 +42,4 @@ RedLaser:
         hitstop: true
         start_pos: 0
         start_y: 0
-        color: 255-255-0
+        color: 255-0-0
