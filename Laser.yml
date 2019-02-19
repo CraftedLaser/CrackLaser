@@ -34,7 +34,7 @@ RedLaser:
         Enable: true
         trigger: 1-0
         aim: none
-        particle: 1-0
+        particle: 1-REDSTONE
         distance: 30
         view-distance: 50
         count: 10
@@ -42,4 +42,4 @@ RedLaser:
         hitstop: true
         start_pos: 0
         start_y: 0
-        color: 255-0-0
+        color: 0-120-255
